@@ -3,7 +3,7 @@ package inheritence;
 public class MultilevelChild extends MultilevelParent {
 	public  void display1()
 	{
-	System.out.println("class b");	
+	System.out.println("child ");	
 	}
 
 	public static void main(String[] args) {

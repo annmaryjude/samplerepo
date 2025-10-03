@@ -3,7 +3,7 @@ package inheritence;
 public class SingleParent {
  public void display()
 	 {
-		 System.out.println("this is child class");
+		 System.out.println("this is Parent class");
 	 }
 }
 

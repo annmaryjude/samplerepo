@@ -1,7 +1,7 @@
 package Superkeyword;
 
 public class Superchildmethod extends Supermethod{
-	public void display1()
+	public void display()
 	{
 		super.display();
 		System.out.println("Super 1");
@@ -10,7 +10,7 @@ public class Superchildmethod extends Supermethod{
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Superchildmethod obj=new Superchildmethod();
-		obj.display1();
+		obj.display();
 
 	}
 

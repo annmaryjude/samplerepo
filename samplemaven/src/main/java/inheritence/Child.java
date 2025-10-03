@@ -3,7 +3,7 @@ package inheritence;
 public class Child extends SingleParent {
 	public void print()
 	{
-		System.out.println("the child");
+		System.out.println("the child class");
 	}
 
 	public static void main(String[] args) {
